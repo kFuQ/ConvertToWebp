@@ -4,15 +4,21 @@ Utility to convert any image type to webp format
 
 ## Features:
 Converts any picture format to webp 
+
 Does Batch conversion
+
 Randomizes the output filenames
+
 
 
 ## Requirements:
 
 [Python 3.x](https://www.python.org/downloads/)
+
 [Imagemagick](https://imagemagick.org/script/download.php)
+
 A bunch of pictures that need to be converted to the newer webp format
+
 
 
 ## Use:
