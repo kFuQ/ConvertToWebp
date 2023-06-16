@@ -14,6 +14,7 @@ Utility to convert any image type to webp format
 
  - [Python 3.x](https://www.python.org/downloads/)
  - [Pillow](https://pypi.org/project/Pillow/)
+ - [TkInter](https://docs.python.org/3/library/tkinter.html)
  - A bunch of pictures that need to be converted to the newer webp format
 
 ## How to Use:
