@@ -12,7 +12,6 @@ Utility to convert any image type to webp format
 
  - [Python 3.x](https://www.python.org/downloads/)
  - [Pillow](https://pypi.org/project/Pillow/)
- - [Imagemagick](https://imagemagick.org/script/download.php) 
  - A bunch of pictures that need to be converted to the newer webp format
 
 ## How to Use:
